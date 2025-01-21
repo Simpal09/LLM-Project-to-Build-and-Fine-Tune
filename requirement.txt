@@ -1,0 +1,6 @@
+torch
+transformers
+datasets
+rouge-score
+Parameter-Efficient Fine-Tuning (PEFT) 
+pandas
